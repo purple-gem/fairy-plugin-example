@@ -1,2 +1,1 @@
-# fairy-hello-world
-A hello world plugin for Fairy.
+# Writing your first Fairy plugin
